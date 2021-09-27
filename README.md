@@ -1,5 +1,5 @@
 
-<img align="right" alt=" " margin ="10px" width="500px" src="https://i.pinimg.com/736x/a1/c9/ca/a1c9cafb0e239974e853f76e2f16b9bf.jpg" />
+<img align="right" alt=" " margin ="10px" width="500px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/20787457.jpg?raw=true" />
 
 ### Hi there 👋, Aniket this side !
 - 🔭 I’m currently working on Personal portfolio
@@ -16,6 +16,7 @@
 <img align="left" alt="DEV C++ " width="26px" src="https://hackr.io/blog/uploads/images/dev-c.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="BOOTSTRAP 4" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpvqwMVWHv_Yh0e3Ljg4W2KDIDTh6BAeJ3X6FFpaHU8RJJQXSf3cDmx1JWzmAQyTzw_k&usqp=CAU" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" width="26px" class="cpp-image" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++">
