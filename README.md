@@ -1,5 +1,5 @@
 
-<img align="right" alt=" " margin ="10px" width="500px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/fe.jpg" border-radius= 25px>
+<img align="right" alt=" " margin ="10px" width="500px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/fe.jpg" border-radius= 25px/>
 
 ### Hi there 👋 Aniket this side !
 - 🔭 I’m currently working on making modern day landing websites.
