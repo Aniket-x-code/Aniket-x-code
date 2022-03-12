@@ -2,7 +2,7 @@
 <img align="right" alt=" " margin ="10px" width="500px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/20787457.jpg?raw=true" />
 
 ### Hi there 👋 Aniket this side !
-- 🔭 I’m currently working on Personal portfolio
+- 🔭 I’m currently working on making modern day landing websites.
 - 🌱 I’m currently learning Java Script
 - 👯 I’m looking to collaborate on Frontend projects !
 - 🤔 I’m looking for help with React !
