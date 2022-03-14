@@ -1,5 +1,5 @@
 
-<img align="right" alt=" "  width="500px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/fe.jpg" >
+<img align="right" alt=" "  height: "200px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/fe.jpg" >
 
 ### Hi there 👋 Aniket this side !
 - 🔭 I’m currently working on making modern day landing websites.
