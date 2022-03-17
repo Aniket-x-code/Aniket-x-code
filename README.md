@@ -20,7 +20,9 @@
 <img align="left" width="26px" class="cpp-image" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++">
 <img align="left" width="26px" class="c-image" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.png" alt="C">
 <img align="left" width="26px" class="java-image" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" alt="JAVA " >
-
+.
+.
+.
 
 #MY STATS
 
