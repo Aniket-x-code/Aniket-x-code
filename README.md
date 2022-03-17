@@ -1,4 +1,4 @@
-<img align="" alt="" width="400px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/fe.jpg" >
+<img align="right" alt="" width="400px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/fe.jpg" >
 
 
 ### Hi there 👋 Aniket this side !
