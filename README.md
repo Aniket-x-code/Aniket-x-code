@@ -23,7 +23,7 @@
 .
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-x-code&theme=radical)
+< align ="right" ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-x-code&theme=radical) >
 
 
 
