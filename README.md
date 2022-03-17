@@ -22,3 +22,6 @@
 <img align="left" width="26px" class="java-image" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" alt="JAVA">
 
 
+#MY STATS ARE !
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-x-cde
+ &theme=radical)
