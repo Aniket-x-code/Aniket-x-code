@@ -9,6 +9,8 @@
 - ⚡ Fun fact: My spirit animal is PANDA:) !
 - 😴  Always Keen !
 
+<img align="" alt="" width="400px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/fe.jpg" >
+
 ### Some Tools And Languages i Use:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom Editor" width="26px" src="https://pngimage.net/wp-content/uploads/2018/05/atom-icon-png.png" />
@@ -25,6 +27,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-x-code&theme=radical)
 
-<img align="" alt="" width="400px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/fe.jpg" >
+
 
 
