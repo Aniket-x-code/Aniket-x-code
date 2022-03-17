@@ -24,3 +24,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-x-code&theme=radical)
+
+<img align="" alt="" width="26px" src="https://github.com/Aniket-x-code/Aniket-x-code/blob/main/fe.jpg" >
+
+
