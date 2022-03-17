@@ -23,4 +23,7 @@
 
 
 #MY STATS ARE !
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-x-code&theme=radical)
+
+
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-x-code&theme=radical)
