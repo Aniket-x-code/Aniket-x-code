@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://noclinks.net/assets/img/softwaredev.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-x-code&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-x-code" /> </p>
+<p align="left"> <img src="https://dakshyatechnology.com/wp-content/uploads/2021/08/39998-web-development.gif" alt="aniket-x-code" /> </p>
 
 - 🌱 I’m currently learning **Javascript, React**
 
