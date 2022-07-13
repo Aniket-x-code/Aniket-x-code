@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.dribbble.com/users/2552715/screenshots/5382481/media/36b14986ade98daf7a4f47af02650a58.gif)
 <h1 align="center">Hi 👋, I'm Aniket Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <br>
 <br>
 <img img align="right" alt="Coding" height="370" width="400"src="https://dakshyatechnology.com/wp-content/uploads/2021/08/39998-web-development.gif" alt="aniket-x-code" /> </p>
