@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <br>
 <br>
-
+<img img align="right" alt="Coding" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="aniket-x-code" /> </p>
 
 - 🌱 I’m currently learning **Javascript, React**
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am always keen !**
 
-<img img align="right" alt="Coding" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="aniket-x-code" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
