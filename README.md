@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 <br>
-<img img align="right" alt="Coding" width="400"src="https://dakshyatechnology.com/wp-content/uploads/2021/08/39998-web-development.gif" alt="aniket-x-code" /> </p>
+<img img align="right" alt="Coding" height="300" width="400"src="https://dakshyatechnology.com/wp-content/uploads/2021/08/39998-web-development.gif" alt="aniket-x-code" /> </p>
 
 - 🌱 I’m currently learning **Javascript, React**
 
