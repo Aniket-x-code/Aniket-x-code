@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/1d/73/5a/1d735ad8eee8350adc96d50e1421ee6d.gif)
+![MasterHead](https://i.pinimg.com/originals/c2/ec/03/c2ec036808851a740fa1bf6e5644160c.gif)
 <h1 align="center">Hi 👋, I'm Aniket Verma</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <br>
