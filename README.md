@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-<br>- 🔭 I’m currently learning **React.js and DSA**<br><br>- 👯 I’m looking to collaborate on **Development Projects**<br><br>- 💬 Ask me about **Javascript, Css**<br><br>- 📫 How to reach me **aniketvetma1303@gmail.com**<br><br>- ⚡ Fun fact **I am always keen !**
+<br>- 🔭 I’m currently learning **React.js and DSA**<br><br>- 👯 I’m looking to collaborate on **Development Projects**<br><br>- 💬 Ask me about **Javascript, Css**<br><br>- 📫 How to reach me **aniketvetma1303@gmail.com**<br><br>- ⚡ Fun fact **I am always keen..**
 
 
 ## 🌐 Socials:
