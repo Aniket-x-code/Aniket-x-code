@@ -1,4 +1,4 @@
- ![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
+ ![MasterHead](https://i.pinimg.com/originals/2b/91/91/2b9191c0750915300106a457fddec474.gif)
 <h1 align="center">Hi ! 👋, I'm Aniket :) </h1>
 <h3 align="center"> A passionate Web Developer from India.</h3> 
   
