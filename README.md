@@ -1,9 +1,12 @@
  ![MasterHead](https://i.pinimg.com/originals/ae/b3/83/aeb3839fa1637ae7b92435fb29cf0df9.gif)
   
   
-# 💫 About Me :
-<div align="center">I'm Aniket, a full-stack freelance developer from India. 👨‍💻 🚀</div>  
+#                                      💫 About Me :
+<br>
+<div align="center" fontsize ="34px"> <b> I'm Aniket 👋, a full-stack freelance developer from India. 👨‍💻 🚀 </b></div>  
   
+  <br>
+  <br>
 
 - 🔭 I’m currently working on making marketplace landing page.  
   
