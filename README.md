@@ -3,10 +3,10 @@
   
 #                                      💫 About Me :
 <br>
-<div align="center" fontsize ="34px"> <b> I'm Aniket 👋, a full-stack freelance developer from India. 👨‍💻 🚀 </b></div>  
+<div align="center"> <b> I'm Aniket 👋, a full-stack freelance developer from India👨‍💻🚀 </b></div>  
   
   <br>
-  <br>
+  <br/>
 
 - 🔭 I’m currently working on making marketplace landing page.  
   
