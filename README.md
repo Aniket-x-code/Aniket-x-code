@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/ae/b3/83/aeb3839fa1637ae7b92435fb29cf0df9.gif)
   
-#                  💫 About Me : 
+#                  💫 About Me :  
 <br>
 <div align="center"> <b> I'm Aniket 👋, a full-stack freelance developer from India👨‍💻🚀 </b></div>  
  
