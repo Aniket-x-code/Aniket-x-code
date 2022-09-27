@@ -82,9 +82,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aniket-x-code&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aniket-x-code&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-x-code&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Aniket-x-code's Stats](https://github-readme-stats.vercel.app/api?username=Aniket-x-code&theme=react&show_icons=true&hide_border=false&count_private=true)
+![Aniket-x-code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniket-x-code&theme=react&hide_border=false)
+![Aniket-x-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-x-code&theme=react&show_icons=true&hide_border=false&layout=compact)
+
+
 
 --- 
 
