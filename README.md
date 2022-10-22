@@ -3,7 +3,7 @@
 <br>     
 <div align="center"> <b> I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </b></div>  
   
-  <br/> 
+  <br/>  
 - 🔭 I’m currently working on making marketplace landing page.  
   
 
