@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning React and Dsa  
   
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
