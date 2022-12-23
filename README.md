@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/Aniket-x-code/Aniket-x-code/blob/main/ezgif.com-gif-maker.gif)
-#  💫About Me:
+# About Me 💫:
 <br>         
 <div align="center"> <b> I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </b></div>  
   <br/>  
