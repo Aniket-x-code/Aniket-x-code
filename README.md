@@ -82,8 +82,7 @@
 ![Aniket-x-code's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aniket-x-code&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 
-- name: WakaTime Coding Statistics
-  uses: Aniket-x-code/coding-stats-wakatime@v1.0.1
+
 
 --- 
 
