@@ -11,7 +11,6 @@
   
 - ⚡ Fun fact: I am always keen !  
 
-  
 - 👯 I’m looking to collaborate on **Development Projects**
 
 
