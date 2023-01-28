@@ -13,7 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Development Projects**
 
-
 - 📫 Reach me at **aniketvetma1303@gmail.com**
 <br/>  
 
