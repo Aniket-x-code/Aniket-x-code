@@ -1,7 +1,6 @@
    ![MasterHead](https://i.pinimg.com/originals/7b/df/16/7bdf164aaed98d4336084d0b33e3e588.gif)
 # About Me 💫: 
 <br>            
-
 <div align="center"> <b> I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </b></div>  
   <br/>  
 - 🔭 I’m currently working on making marketplace landing page.  
