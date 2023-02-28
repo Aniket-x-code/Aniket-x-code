@@ -2,7 +2,7 @@
 # About Me 💫: 
 <br>           
 
-<div align="center"> <b> I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </b></div>  
+<div align="center"> <b>  <h1>   I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </h1> </b></div>  
   <br/>  
 - 🔭 I’m currently working on making marketplace landing page.  
 
