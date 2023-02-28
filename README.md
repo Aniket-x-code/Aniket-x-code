@@ -1,4 +1,4 @@
-   ![MasterHead](https://i.pinimg.com/originals/7b/df/16/7bdf164aaed98d4336084d0b33e3e588.gif)
+   ![MasterHead]()
 # About Me 💫: 
 <br>           
 
