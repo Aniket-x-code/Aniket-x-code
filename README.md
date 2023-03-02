@@ -4,6 +4,8 @@
 
 <div align="center"> <b>  <h1>   I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </h1> </b></div>  
   <br/>  
+  
+  <h3>
 - 🔭 I’m currently working on making marketplace landing page.  
 
 - 🌱 I’m currently learning React and Dsa  
@@ -16,6 +18,7 @@
 
 - 📫 Reach me at **aniketvetma1303@gmail.com**
 <br/>  
+</h3>
 
 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-verma-b305211b9/)
