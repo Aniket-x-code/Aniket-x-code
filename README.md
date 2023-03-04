@@ -1,11 +1,11 @@
-   ![MasterHead](https://i.pinimg.com/originals/eb/1b/67/eb1b67549b10804f6979549d1c58df6a.gif)
+   ![MasterHead](https://i.pinimg.com/originals/6c/c4/88/6cc4880f73fa8c377076a7539a203ff0.gif)
 # About Me 💫: 
 <br>           
 
-<div align="center"> <b>  <h1>   I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </h1> </b></div>  
+<div align="center"> <b>  <h2>   I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
   <br/>  
   
-  <h3>
+  <h5>
 - 🔭 I’m currently working on making marketplace landing page.  
 
 - 🌱 I’m currently learning React and Dsa  
@@ -18,7 +18,7 @@
 
 - 📫 Reach me at **aniketvetma1303@gmail.com**
 <br/>  
-</h3>
+</h5>
 
 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-verma-b305211b9/)
