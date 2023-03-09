@@ -1,7 +1,6 @@
    ![MasterHead](https://i.pinimg.com/originals/ec/c3/9d/ecc39dfd100eb30f7f42f69538176d53.gif)
 # About Me 💫: 
 <br>           
-
 <div align="center"> <b>  <h2>   I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
   <br/>  
   
