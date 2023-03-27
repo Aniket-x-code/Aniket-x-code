@@ -72,7 +72,9 @@
 
 <br/>  
  📊 GitHub Stats:
-![Aniket-x-code's Stats](https://github-readme-stats.vercel.app/api?username=Aniket-x-code&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-x-code&show_icons=true&locale=en&layout=compact" alt="aniket-x-code" /></p>
 
---- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-x-code&show_icons=true&locale=en" alt="aniket-x-code" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-x-code&" alt="aniket-x-code" /></p>
 
