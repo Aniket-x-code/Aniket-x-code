@@ -6,11 +6,11 @@
   <br/>  
   
   <h4>
-- 🔭 I’m currently working on making marketplace landing page.  
+- 🔭 I’m currently working on making Api service.  
 
 - 🌱 I’m currently learning React and Dsa  
   
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and anime. 
   
 - ⚡ Fun fact: I am always keen !  
 
