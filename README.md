@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning React and Dsa  
   
-- ❓ Ask me about anything related to MERN stack and anime. 
+- ❓ Ask me about anything related to MERN stack and Anime. 
   
 - ⚡ Fun fact: I am always keen !  
-
-- 👯 I’m looking to collaborate on **Development Projects**
 
 - 📫 Reach me at **aniketvetma1303@gmail.com**
 <br/>  
