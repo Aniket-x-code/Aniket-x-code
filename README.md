@@ -4,8 +4,12 @@
 <div align="center"> <b>  <h2>   I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
   <br/>  
   <h4>
-- 🔭 I’m currently working on making Api service.  
-- 🌱 I’m currently learning React and Dsa  
+     
+- 🔭 I’m currently working on making Api service.
+- 
+- 🌱 I’m currently learning React and Dsa
+
+- 
 - ❓ Ask me about anything related to MERN stack and Anime. 
   
 - ⚡ Fun fact: I am always keen !  
