@@ -6,7 +6,6 @@
   <h4>
 - 🔭 I’m currently working on making Api service.  
 - 🌱 I’m currently learning React and Dsa  
-  
 - ❓ Ask me about anything related to MERN stack and Anime. 
   
 - ⚡ Fun fact: I am always keen !  
