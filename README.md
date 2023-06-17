@@ -11,7 +11,7 @@
 
 - ❓ Ask me about anything related to MERN stack and Anime. 
   
-- ⚡ Fun fact: I am always keen !  
+- ⚡ Fun fact: I am always keen & I own a computer :) 
 
 - 📫 Reach me at **aniketvetma1303@gmail.com**
 <br/>  
