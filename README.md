@@ -68,10 +68,15 @@
 </td></tr></table>  
 
 <br/>  
- 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-x-code&show_icons=true&locale=en&layout=compact" alt="aniket-x-code" /></p>
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-x-code&show_icons=true&locale=en" alt="aniket-x-code" /></p>
+# 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-x-code&" alt="aniket-x-code" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniket-x-code&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-x-code&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aniket-x-code&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
