@@ -5,15 +5,15 @@
   <br/>  
   <h4>
      
-- 💻 I’m currently working on making SneakeKicks service.
+- 💻  I’m currently working on making SneakeKicks service.
 
-- 📗 I’m currently learning React and DevOps Basic's.
+- 📗  I’m currently learning React and DevOps Basic's.
 
-- 🙋 Ask me about anything related to MERN stack and Anime. 
+- 🙋  Ask me about anything related to MERN stack and Anime. 
   
-- 👾 Fun fact: I am always keen & I own a computer :) 
+- 👾  Fun fact: I am always keen & I own a computer :) 
 
-- 🛸 Reach me at **aniketvetma1303@gmail.com**
+- 🛸  Reach me at **aniketvetma1303@gmail.com**
 <br/>  
 </h4>
 
