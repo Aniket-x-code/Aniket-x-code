@@ -1,5 +1,5 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
-# About Me 💫 : 
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+<h1 align="center">Hi 👋, I'm Aniket Verma</h1>
 <br> 
 <div align="center"> <b>  <h2>   I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
   <br/>  
