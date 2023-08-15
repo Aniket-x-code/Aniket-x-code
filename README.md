@@ -5,19 +5,19 @@
   <br/>  
   <h4>
      
-- 🔭 I’m currently working on making SneakeKicks service.
+- 💻 I’m currently working on making SneakeKicks service.
 
-- 🌱 I’m currently learning React and Dsa
+- 📗 I’m currently learning React and DevOps Basic's.
 
-- ❓ Ask me about anything related to MERN stack and Anime. 
+- 🙋 Ask me about anything related to MERN stack and Anime. 
   
-- ⚡ Fun fact: I am always keen & I own a computer :) 
+- 👾 Fun fact: I am always keen & I own a computer :) 
 
-- 📫 Reach me at **aniketvetma1303@gmail.com**
+- 🛸 Reach me at **aniketvetma1303@gmail.com**
 <br/>  
 </h4>
 
-🌐 Socials: 
+📱 Socials: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-verma-b305211b9/)
 
