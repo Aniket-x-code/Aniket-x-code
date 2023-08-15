@@ -1,4 +1,4 @@
-   ![MasterHead](https://github.com/Aniket-x-code/Aniket-x-code/blob/main/Studio_Project.gif)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 # About Me 💫 : 
 <br> 
 <div align="center"> <b>  <h2>   I'm Aniket 👋, a Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
