@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+ ![MasterHead](https://i.pinimg.com/originals/57/31/8c/57318cd535b1c030d6176315c5503e6b.gif) 
 <h1 align="center">Hi 👋, I'm Aniket Verma</h1>
 <br> 
 <div align="center"> <b>  <h2> A Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
