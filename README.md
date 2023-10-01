@@ -16,7 +16,6 @@
 - 🛸  Reach me at **aniketvetma1303@gmail.com**
 <br/>  
 </h4>
-
 📱 Socials: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-verma-b305211b9/)
