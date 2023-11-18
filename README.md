@@ -5,7 +5,6 @@
   <br/>  
   <h4>
   
-     
 - 💻  I’m currently working on making SneakeKicks Service.
 
 - 📗  I’m currently learning React and DevOps Basic's.
