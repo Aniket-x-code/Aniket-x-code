@@ -1,5 +1,6 @@
  ![MasterHead](https://i.pinimg.com/originals/2f/53/30/2f53300ae298782ca15d847969a9e580.gif) 
 <h1 align="center">Heya 👋, I'm Aniket Verma</h1>
+<br/>
 
 <div align="center"> <b>  <h2> A Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
   <br/>  
