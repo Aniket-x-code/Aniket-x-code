@@ -4,9 +4,7 @@
 
 <div align="center"> <b>  <h2> A Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
   <br/>  
-  <h4>
-  
-  
+  <h4> 
 - 💻  I’m currently working on making Saas Platform.
 
 - 📗  I’m currently learning React and DevOps Basic's.
