@@ -1,7 +1,6 @@
  ![MasterHead](https://pa1.aminoapps.com/6443/b6ba7bbaba12eac14410e9f8d58145ca47049725_hq.gif) 
 <h1 align="center">Heya 👋, I'm Aniket Verma</h1>
 <br/>
-
 <div align="center"> <b>  <h2> A Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
   <br/>  
   <h4> 
