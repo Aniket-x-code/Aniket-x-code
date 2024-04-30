@@ -4,9 +4,9 @@
 <div align="center"> <b>  <h2> A Full-stack developer from India👨‍💻🚀 </h2> </b></div>  
   <br/>  
   <h4> 
-- 💻  I’m currently working on making Saas Platform.
+- 💻  I’m currently working on making SaaS Platform ( Personal work xD ).
 
-- 📗  I’m currently learning React and DevOps Basic's.
+- 📗  I’m currently learning Product Design and Figma.
 
 - 🙋  Ask me about anything related to MERN stack and Anime. 
   
