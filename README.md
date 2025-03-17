@@ -8,7 +8,7 @@
 
 - 📗  I’m currently learning Product Design and Figma.
 
-- 🙋  Ask me about anything related to MERN stack and Anime. 
+- 🙋  Ask me about anything related to MERN stack and Cloud services. 
   
 - 👾  Fun fact: I am always keen & I own a computer :) 
 
